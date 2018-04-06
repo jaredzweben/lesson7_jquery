@@ -15,8 +15,10 @@ commands, we were able to make each part of the application display as well as h
 user know that they are hovering over it.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://github.com/jaredzweben/lesson7_jquery
+
+https://jaredzweben.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. In this project, we learned how to use jquery in our code to make building a website easier. 
